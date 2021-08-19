@@ -1,3 +1,6 @@
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tarun080698.repoName)
+
+
 # Github Stats 
 [comment]: <> (theme choice tokyonight)
 <img src="https://github-readme-stats.vercel.app/api?username=tarun080698&show_icons=true&theme=chartreuse-dark" alt="github stats" width="100%" align="left"/>

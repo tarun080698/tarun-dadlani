@@ -3,13 +3,13 @@
 
 # Github Stats 
 [comment]: <> (theme choice tokyonight)
-<img src="https://github-readme-stats.vercel.app/api?username=tarun080698&show_icons=true&theme=chartreuse-dark" alt="github stats" width="100%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tarun080698&show_icons=true&theme=chartreuse-dark" alt="github stats" width="40%" align="left"/>
 
 # Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun080698&theme=dark" width="100%" align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun080698&theme=dark" width="40%" align="right">
 
 # Stack overflow
-<a href="https://stackoverflow.com/users/12967735/tarun-dadlani"><img src="https://stackoverflow.com/users/flair/12967735.png?theme=dark" width="100%" height="100%" alt="profile for Tarun Dadlani at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tarun Dadlani at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/12967735/tarun-dadlani"><img src="https://stackoverflow.com/users/flair/12967735.png?theme=dark" width="30%" height="30%" alt="profile for Tarun Dadlani at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tarun Dadlani at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
 # top-langs

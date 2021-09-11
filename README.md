@@ -1,25 +1,31 @@
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tarun Dadlani!
+
+
+
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tarun080698.repoName)
+---
 
 
-# Github Stats 
+<p> Github Streaks <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun080698&theme=dark" width="48%" height="200px" align="left">
+
+Stack overflow <a href="https://stackoverflow.com/users/12967735/tarun-dadlani"><img src="https://stackoverflow.com/users/flair/12967735.png?theme=dark" width="48%" height="200px" alt="profile for Tarun Dadlani at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tarun Dadlani at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</p>
+
+---
+
+## top-langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun080698&layout=compact&show_icons=true&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+### Github Stats 
 [comment]: <> (theme choice tokyonight)
 <img src="https://github-readme-stats.vercel.app/api?username=tarun080698&show_icons=true&theme=chartreuse-dark" alt="github stats" width="40%" align="left"/>
 
-# Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun080698&theme=dark" width="40%" align="right">
 
-# Stack overflow
-<a href="https://stackoverflow.com/users/12967735/tarun-dadlani"><img src="https://stackoverflow.com/users/flair/12967735.png?theme=dark" width="30%" height="30%" alt="profile for Tarun Dadlani at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tarun Dadlani at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-
-# top-langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun080698&layout=compact&show_icons=true&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-
+---
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tarundadlani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+---
 # Tech Stack
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />

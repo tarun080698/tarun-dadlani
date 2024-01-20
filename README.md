@@ -1,5 +1,5 @@
 <!--- https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c --->
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tarun Dadlani!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tarun Dadlani!
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tarun080698.repoName)
 
 - 👨‍🎓 Pursuing MS in Computer Science at Stevens

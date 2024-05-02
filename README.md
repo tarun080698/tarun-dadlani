@@ -18,17 +18,15 @@
 
 ## 🔭 I'm currently working on
 
-- My portfolio website
+- startup
 - Leetcode questions
 - Job applications
 - Reading books
-- Resume
 
 ## 🌱 I'm currently learning
 
 - Machine Learning
 - Rust by example
-- Pandas, Numpy, Matplotlib
 - NextJs 14
 
 ## 🌟All Stats 

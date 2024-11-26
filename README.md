@@ -25,9 +25,9 @@
 
 ## 🌱 I'm currently learning
 
-- Machine Learning
-- Rust by example
-- NextJs 14
+- NextJs 15
+- Convex & Clerkjs
+- React Native
 
 ## 🌟All Stats 
 <p>

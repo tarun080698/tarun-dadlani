@@ -2,10 +2,10 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tarun Dadlani!
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tarun080698.repoName)
 
-- 👨‍🎓 Pursuing MS in Computer Science at Stevens
-- 🌐 Full Stack Developer with expertise in ReactJS, Angular, and MERN Stack
-- 😊 Enthusiastic about Data Science and Machine Learning
-- 👀 Creative problem-solver
+- 👨‍🎓 Graduated with MS in Computer Science from Stevens Institute of Technology, NJ, US
+- 🌐 Full Stack Developer with expertise in ReactJS, NextJs 15, MERN Stack, GCP, Docker, Kubernetes and much more
+- 😊 Enthusiastic about System Design and problem solving
+- 👀 Big believer in Trial and Error method
 - 📥 Reach out to me:
 
   <p>
@@ -21,7 +21,7 @@
 - startup
 - Leetcode questions
 - Job applications
-- Reading books
+- Build web apps
 
 ## 🌱 I'm currently learning
 
